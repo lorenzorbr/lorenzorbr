@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho e estudo back-end
-- 🌱 Estudando DevOps e boas práticas de arquitetura e padrões, sempre em busca de bons livros e referências técnicas
+- 🌱 Estudando Backend e um pouco de DevOps, juntamente com boas práticas de arquitetura e padrões, sempre em busca de bons livros e referências técnicas
 - 💬 Sinta-se à vontade de entrar em contato
 - 📫 E-mail pessoal: lorenzorbr@hotmail.com
 

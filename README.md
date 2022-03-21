@@ -1,10 +1,10 @@
-### Seja Bem Vindo ao Meu Github
+### Welcome to my GitHub
 
 
-- 🔭 Atualmente trabalho e estudo back-end
-- 🌱 Estudando Backend e um pouco de DevOps, juntamente com boas práticas de arquitetura e padrões, sempre em busca de bons livros e referências técnicas
-- 💬 Sinta-se à vontade de entrar em contato
-- 📫 E-mail pessoal: lorenzorbr@hotmail.com
+- 🔭 Nowadays, i'm working as a fullstack developer - main focus in backend and devops
+- I like to study what makes me feel challenged
+- 💬 Feel free to message me
+- 📫 Personal E-mail : lorenzorbr@hotmail.com
 
 <div align="center">
   <a href="https://github.com/lorenzorbr">

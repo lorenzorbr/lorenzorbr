@@ -10,7 +10,7 @@ I enjoy building reliable platforms that help developers move faster. My experie
 
 - 💻 Platform & DevOps Engineer
 - ☁️ Building cloud-native infrastructure and developer platforms
-- 🤖 Interested in AI Infrastructure, MLOps, and GPU platforms
+- 🤖 Interested in AI Infrastructure, MLOps, GPU platforms, Platform Engineering, DevSecOps and sometimes security as a hobby
 - ⚙️ Passionate about automation and eliminating repetitive work
 - 🌎 Currently based in Japan
 - 📚 Always learning distributed systems, Kubernetes internals, and system design
@@ -20,6 +20,8 @@ I enjoy building reliable platforms that help developers move faster. My experie
 ## 📈 What I Like Building
 
 - Developer Platforms
+- DevSecOps processes
+- Security standards
 - Internal Developer Portals
 - CI/CD Systems
 - Kubernetes Platforms
